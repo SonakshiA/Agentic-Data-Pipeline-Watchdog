@@ -11,11 +11,17 @@ This project implements an automated data cleaning pipeline using an agentic app
 
 ## 📦 Requirements
 Python 3.8+
+
 pandas
+
 sqlite3
+
 openai
+
 langgraph
+
 python-dotenv
+
 
 ## 🔐 Environment Setup
 Create a .env file in the root directory with the following:
